@@ -1,0 +1,19 @@
+{
+    "name": "pageTest",
+    "version": "0.0.1",
+    "description": "monitor pages and diff the dom change with phantomjs",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "monitor",
+        "core",
+        "phantom",
+        "diff"
+    ],
+    "dependencies": {
+        "phantomjs": "2.0.0",
+        "system":""
+    }
+}
