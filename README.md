@@ -7,3 +7,7 @@ pagePainter是一个页面效果快照和diff组件。
 ##安装
 
 ##功能描述
+
+	根据cookie
+	根据url
+	根据时间
