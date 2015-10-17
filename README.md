@@ -8,6 +8,6 @@ pagePainter是一个页面效果快照和diff组件。
 
 ##功能描述
 
-	根据cookie
-	根据url
-	根据时间
+	伪造cookie信息访问页面截屏
+	根据url对页面进行截屏
+	根据时间做页面diff
