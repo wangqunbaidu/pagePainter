@@ -5,7 +5,6 @@ var monitor = new Monitor(url);
 console.log('page监听地址：');
 console.log(url);
 monitor.capture(function(code){
-
     console.log(monitor.log); // from phantom
     console.log('done, exit [' + code + ']');
 });
