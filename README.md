@@ -13,5 +13,5 @@ pagePainter是一个页面效果快照和diff组件。
 
 	伪造cookie信息访问页面截屏
 	根据url对页面进行截屏
-	根据时间做页面diff
+	根据间隔时间做页面diff
 
